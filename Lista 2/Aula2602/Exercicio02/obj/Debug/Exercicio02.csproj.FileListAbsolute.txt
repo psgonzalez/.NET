@@ -1,0 +1,13 @@
+D:\ARQUIVOS DOS ALUNOS\Paula\Aula2602\Exercicio02\bin\Debug\Exercicio02.exe.config
+D:\ARQUIVOS DOS ALUNOS\Paula\Aula2602\Exercicio02\bin\Debug\Exercicio02.exe
+D:\ARQUIVOS DOS ALUNOS\Paula\Aula2602\Exercicio02\bin\Debug\Exercicio02.pdb
+D:\ARQUIVOS DOS ALUNOS\Paula\Aula2602\Exercicio02\obj\Debug\Exercicio02.csproj.CoreCompileInputs.cache
+D:\ARQUIVOS DOS ALUNOS\Paula\Aula2602\Exercicio02\obj\Debug\Exercicio02.exe
+D:\ARQUIVOS DOS ALUNOS\Paula\Aula2602\Exercicio02\obj\Debug\Exercicio02.pdb
+C:\Users\Paula\Desktop\Aula2602\Exercicio02\bin\Debug\Exercicio02.exe.config
+C:\Users\Paula\Desktop\Aula2602\Exercicio02\bin\Debug\Exercicio02.exe
+C:\Users\Paula\Desktop\Aula2602\Exercicio02\bin\Debug\Exercicio02.pdb
+C:\Users\Paula\Desktop\Aula2602\Exercicio02\obj\Debug\Exercicio02.csprojAssemblyReference.cache
+C:\Users\Paula\Desktop\Aula2602\Exercicio02\obj\Debug\Exercicio02.csproj.CoreCompileInputs.cache
+C:\Users\Paula\Desktop\Aula2602\Exercicio02\obj\Debug\Exercicio02.exe
+C:\Users\Paula\Desktop\Aula2602\Exercicio02\obj\Debug\Exercicio02.pdb

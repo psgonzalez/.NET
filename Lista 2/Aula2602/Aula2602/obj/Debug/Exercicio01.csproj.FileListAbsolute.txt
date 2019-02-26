@@ -1,0 +1,6 @@
+D:\ARQUIVOS DOS ALUNOS\Paula\Aula2602\Aula2602\bin\Debug\Aula2602.exe.config
+D:\ARQUIVOS DOS ALUNOS\Paula\Aula2602\Aula2602\bin\Debug\Aula2602.exe
+D:\ARQUIVOS DOS ALUNOS\Paula\Aula2602\Aula2602\bin\Debug\Aula2602.pdb
+D:\ARQUIVOS DOS ALUNOS\Paula\Aula2602\Aula2602\obj\Debug\Exercicio01.csproj.CoreCompileInputs.cache
+D:\ARQUIVOS DOS ALUNOS\Paula\Aula2602\Aula2602\obj\Debug\Aula2602.exe
+D:\ARQUIVOS DOS ALUNOS\Paula\Aula2602\Aula2602\obj\Debug\Aula2602.pdb

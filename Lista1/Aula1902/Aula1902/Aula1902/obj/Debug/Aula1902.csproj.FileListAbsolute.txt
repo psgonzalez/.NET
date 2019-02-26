@@ -1,0 +1,7 @@
+D:\ARQUIVOS DOS ALUNOS\Aula1902\Aula1902\Aula1902\bin\Debug\Aula1902.exe.config
+D:\ARQUIVOS DOS ALUNOS\Aula1902\Aula1902\Aula1902\bin\Debug\Aula1902.exe
+D:\ARQUIVOS DOS ALUNOS\Aula1902\Aula1902\Aula1902\bin\Debug\Aula1902.pdb
+D:\ARQUIVOS DOS ALUNOS\Aula1902\Aula1902\Aula1902\obj\Debug\Aula1902.csprojAssemblyReference.cache
+D:\ARQUIVOS DOS ALUNOS\Aula1902\Aula1902\Aula1902\obj\Debug\Aula1902.csproj.CoreCompileInputs.cache
+D:\ARQUIVOS DOS ALUNOS\Aula1902\Aula1902\Aula1902\obj\Debug\Aula1902.exe
+D:\ARQUIVOS DOS ALUNOS\Aula1902\Aula1902\Aula1902\obj\Debug\Aula1902.pdb
